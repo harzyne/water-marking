@@ -1,0 +1,8 @@
+C:\Users\Harzyne\Desktop\watermarking\watermarking sourcecodes\howto_steganography_hide_image2\bin\Debug\howto_steganography_hide_image2.exe
+C:\Users\Harzyne\Desktop\watermarking\watermarking sourcecodes\howto_steganography_hide_image2\bin\Debug\howto_steganography_hide_image2.pdb
+C:\Users\Harzyne\Desktop\watermarking\watermarking sourcecodes\howto_steganography_hide_image2\obj\Debug\howto_steganography_hide_image2.csprojResolveAssemblyReference.cache
+C:\Users\Harzyne\Desktop\watermarking\watermarking sourcecodes\howto_steganography_hide_image2\obj\Debug\howto_steganography_hide_image2.Form1.resources
+C:\Users\Harzyne\Desktop\watermarking\watermarking sourcecodes\howto_steganography_hide_image2\obj\Debug\howto_steganography_hide_image2.Properties.Resources.resources
+C:\Users\Harzyne\Desktop\watermarking\watermarking sourcecodes\howto_steganography_hide_image2\obj\Debug\howto_steganography_hide_image2.csproj.GenerateResource.Cache
+C:\Users\Harzyne\Desktop\watermarking\watermarking sourcecodes\howto_steganography_hide_image2\obj\Debug\howto_steganography_hide_image2.exe
+C:\Users\Harzyne\Desktop\watermarking\watermarking sourcecodes\howto_steganography_hide_image2\obj\Debug\howto_steganography_hide_image2.pdb
