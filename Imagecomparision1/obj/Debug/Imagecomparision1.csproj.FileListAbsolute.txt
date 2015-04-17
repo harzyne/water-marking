@@ -1,0 +1,9 @@
+c:\users\kasthu\documents\visual studio 2012\Projects\Imagecomparision1\Imagecomparision1\bin\Debug\Imagecomparision1.exe.config
+c:\users\kasthu\documents\visual studio 2012\Projects\Imagecomparision1\Imagecomparision1\bin\Debug\Imagecomparision1.exe
+c:\users\kasthu\documents\visual studio 2012\Projects\Imagecomparision1\Imagecomparision1\bin\Debug\Imagecomparision1.pdb
+c:\users\kasthu\documents\visual studio 2012\Projects\Imagecomparision1\Imagecomparision1\obj\Debug\Imagecomparision1.csprojResolveAssemblyReference.cache
+c:\users\kasthu\documents\visual studio 2012\Projects\Imagecomparision1\Imagecomparision1\obj\Debug\Imagecomparision1.Form1.resources
+c:\users\kasthu\documents\visual studio 2012\Projects\Imagecomparision1\Imagecomparision1\obj\Debug\Imagecomparision1.Properties.Resources.resources
+c:\users\kasthu\documents\visual studio 2012\Projects\Imagecomparision1\Imagecomparision1\obj\Debug\Imagecomparision1.csproj.GenerateResource.Cache
+c:\users\kasthu\documents\visual studio 2012\Projects\Imagecomparision1\Imagecomparision1\obj\Debug\Imagecomparision1.exe
+c:\users\kasthu\documents\visual studio 2012\Projects\Imagecomparision1\Imagecomparision1\obj\Debug\Imagecomparision1.pdb
